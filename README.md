@@ -133,6 +133,54 @@ __Sample output :__
 
 <img width="277" height="79" alt="image" src="https://github.com/user-attachments/assets/70720e48-7bd6-49d3-8fb0-cc95f5c6bf7a" />
 
+
 __Conclusion:__
 This program calculates the total and average of elements in an array, useful in statistics and data processing.
+
+
+__ Palindrome Check__
+
+Description
+
+Check whether a given string is a palindrome (reads the same forwards and backwards).
+
+__ALGORITHM__
+1.Calculate the length of the string.
+
+2.Compare characters from the start and end moving inward.
+
+3.If any characters differ, it's not a palindrome.
+
+ __String Concatenation Without Built-in Functions__
+
+__Algorithm: String__
+
+1.Start with two input strings: str1 and str2.
+
+2.Find the length of str1 by iterating through it until the null terminator ('\0') is found.
+
+3.At the position after the last character of str1, insert a space character ' '.
+
+4.Starting from the position after the space, copy each character from str2 one by one into str1.
+
+5.After copying all characters from str2, add the null terminator ('\0') at the end of the combined string.
+
+6.The concatenated string str1 now contains the original str1, a space, and then str2.
+
+__ Array Declaration and Initialization__
+
+__Description__
+
+Demonstrates how to declare and initialize arrays in C++.
+
+__ALGORITHM__
+1.Declare without initialization (values are garbage).
+
+2.Declare and initialize explicitly.
+
+3.Partial initialization (remaining elements zero).
+
+4.Implicit size with initializer list.
+
+
 
