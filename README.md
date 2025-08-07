@@ -54,6 +54,8 @@ __Sample Input:__
 __Sample output:__
 
 <img width="330" height="64" alt="image" src="https://github.com/user-attachments/assets/492dfe1e-250d-40ca-a1e0-d4fc1ed686f2" />
+
+
 Conclusion:
 This program effectively finds the largest and smallest elements in an array, useful in many practical scenarios like data analysis.
 
