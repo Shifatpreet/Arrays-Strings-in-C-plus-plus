@@ -64,7 +64,7 @@ Description: Searches for a user-provided value in a predefined array and report
 
 Features: Linear search in array.
 
-Algorithm:
+__Algorithm:__
 
 1.Define an array with predefined values.
 
@@ -138,7 +138,7 @@ __Conclusion:__
 This program calculates the total and average of elements in an array, useful in statistics and data processing.
 
 
-__ Palindrome Check__
+__Palindrome Check__
 
 Description
 
