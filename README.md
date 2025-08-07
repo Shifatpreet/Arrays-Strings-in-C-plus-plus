@@ -128,7 +128,9 @@ __Sample Input:__
 
 <img width="265" height="118" alt="image" src="https://github.com/user-attachments/assets/086544c7-7a09-4809-b781-6b8c503b85cf" />
 
-__Sample output__
+__Sample output :__
+
+
 <img width="277" height="79" alt="image" src="https://github.com/user-attachments/assets/70720e48-7bd6-49d3-8fb0-cc95f5c6bf7a" />
 
 __Conclusion:__
