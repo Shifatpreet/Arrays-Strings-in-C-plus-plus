@@ -167,7 +167,7 @@ __Algorithm: String__
 
 6.The concatenated string str1 now contains the original str1, a space, and then str2.
 
-__ Array Declaration and Initialization__
+__Array Declaration and Initialization__
 
 __Description__
 
