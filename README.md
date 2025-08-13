@@ -150,7 +150,7 @@ __Algorithm:__
 
 6.The concatenated string str1 now contains the original str1, a space, and then str2.
 
-__Conclusion__
+__Conclusion:__
 
 This program manually concatenates two strings by copying characters without using built-in functions. It helps understand string handling and memory management in C++.
 
@@ -171,7 +171,7 @@ __Algorithm:__
 4.Implicit size with initializer list.
 
 
-__Conclusion__
+__Conclusion:__
 
 This program illustrates various ways to declare and initialize arrays in C++. It helps understand default values, partial initialization, and implicit sizing with initializer lists.
 
