@@ -6,7 +6,8 @@ Shifatpreet Singh
 Student ID: 24070123098
 Department: ENTC B1
 
-__Programs Included__
+__::Programs Included::__
+
 __1. Input and Display Array Elements__
 
 Description: Reads 5 integer values from the user and displays them.
