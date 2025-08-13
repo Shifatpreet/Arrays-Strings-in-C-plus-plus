@@ -8,6 +8,7 @@ Department: ENTC B1
 
 __Programs Included__
 __1. Input and Display Array Elements__
+
 Description: Reads 5 integer values from the user and displays them.
 
 Features: Basic input/output with arrays.
@@ -19,9 +20,6 @@ __Algorithm:__
 2.Use a loop to read 5 integers from the user and store them in the array.
 
 3.Use another loop to display the stored integers.
-
-Sample Input: 2 3 5 6 7
-Sample Output: 2 3 5 6 7
 
 __Conclusion:__
 This program demonstrates the basics of array input and output operations.
@@ -46,16 +44,6 @@ __Algorithm:__
 
 6.Print the maximum and minimum values.
 
-__Sample Input:__
-
-<img width="358" height="107" alt="image" src="https://github.com/user-attachments/assets/9ce3370f-c7ef-414d-ad99-7844ee4040fd" />
-
-
-__Sample output:__
-
-<img width="330" height="64" alt="image" src="https://github.com/user-attachments/assets/492dfe1e-250d-40ca-a1e0-d4fc1ed686f2" />
-
-
 Conclusion:
 This program effectively finds the largest and smallest elements in an array, useful in many practical scenarios like data analysis.
 
@@ -76,9 +64,6 @@ __Algorithm:__
 
 5.If not found, print a message indicating the key is not present.
 
-Sample Input: 50
-Sample Output: Key found at Location: 2
-
 __Conclusion:__
 This program demonstrates a simple linear search algorithm to find an element in an array.
 
@@ -94,13 +79,6 @@ __Algorithm:__
 2.Input x elements into the array.
 
 3.Loop backwards from the last element to the first, printing each element.
-
-__Sample Input:__
-
-<img width="267" height="120" alt="image" src="https://github.com/user-attachments/assets/90973fd5-f085-476e-9050-c007f5a4352a" />
-
-__Sample Output:__
-Reversed Array is: 15 64 45 23 1
 
 __Conclusion:__
 This program shows how to reverse the order of elements in an array, a common array manipulation task.
@@ -123,16 +101,6 @@ __Algorithm:__
 5.Calculate average by dividing sum by x.
 
 6.Print the sum and average.
-
-__Sample Input:__
-
-<img width="265" height="118" alt="image" src="https://github.com/user-attachments/assets/086544c7-7a09-4809-b781-6b8c503b85cf" />
-
-__Sample output :__
-
-
-<img width="277" height="79" alt="image" src="https://github.com/user-attachments/assets/70720e48-7bd6-49d3-8fb0-cc95f5c6bf7a" />
-
 
 __Conclusion:__
 This program calculates the total and average of elements in an array, useful in statistics and data processing.
