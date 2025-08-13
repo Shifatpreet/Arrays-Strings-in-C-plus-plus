@@ -163,16 +163,12 @@ __Algorithm:__
 
 3.Partial initialization (remaining elements zero).
 
+4.Implicit size with initializer list.
+
+
 __Conclusion__
 
 This program illustrates various ways to declare and initialize arrays in C++. It helps understand default values, partial initialization, and implicit sizing with initializer lists.
-
-
-
-
-
-
-4.Implicit size with initializer list.
 
 
 
