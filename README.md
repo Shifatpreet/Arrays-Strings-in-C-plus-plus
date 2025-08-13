@@ -67,7 +67,7 @@ __Algorithm:__
 __Conclusion:__
 This program demonstrates a simple linear search algorithm to find an element in an array.
 
-__4. Reverse an Array: __
+__4.Reverse an Array:__
 Description: Reads array elements from the user and prints the array in reverse order.
 
 Features: Reversing the elements using a loop.
@@ -106,7 +106,7 @@ __Conclusion:__
 This program calculates the total and average of elements in an array, useful in statistics and data processing.
 
 
-__Palindrome Check__
+__6.Palindrome Check__
 
 Description
 
@@ -119,7 +119,7 @@ __ALGORITHM__
 
 3.If any characters differ, it's not a palindrome.
 
- __String Concatenation Without Built-in Functions__
+ __7.String Concatenation Without Built-in Functions__
 
 __Algorithm: String__
 
@@ -135,7 +135,7 @@ __Algorithm: String__
 
 6.The concatenated string str1 now contains the original str1, a space, and then str2.
 
-__Array Declaration and Initialization__
+__8.Array Declaration and Initialization__
 
 __Description__
 
