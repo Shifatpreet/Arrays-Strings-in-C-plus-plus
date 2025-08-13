@@ -23,6 +23,7 @@ __Algorithm:__
 3.Use another loop to display the stored integers.
 
 __Conclusion:__
+
 This program demonstrates the basics of array input and output operations.
 
 __2. Find Maximum and Minimum in an Array__
