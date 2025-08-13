@@ -121,7 +121,7 @@ Description:
 
 Check whether a given string is a palindrome (reads the same forwards and backwards).
 
-__ALGORITHM__
+__Algorithm:__
 
 1.Calculate the length of the string.
 
@@ -131,7 +131,7 @@ __ALGORITHM__
 
  __7.String Concatenation Without Built-in Functions__
 
-__Algorithm: String__
+__Algorithm:__
 
 1.Start with two input strings: str1 and str2.
 
@@ -151,7 +151,7 @@ __Description__
 
 Demonstrates how to declare and initialize arrays in C++.
 
-__ALGORITHM__
+__Algorithm:__
 
 1.Declare without initialization (values are garbage).
 
