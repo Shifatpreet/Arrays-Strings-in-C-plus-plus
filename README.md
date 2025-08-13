@@ -27,6 +27,7 @@ This program demonstrates the basics of array input and output operations.
 
 __2. Find Maximum and Minimum in an Array__
 
+
 Description: Takes the size of the array from the user, reads integer values, and finds the maximum and minimum elements.
 
 Features: Dynamic array size, max/min element finding.
@@ -45,10 +46,12 @@ __Algorithm:__
 
 6.Print the maximum and minimum values.
 
-Conclusion:
+__Conclusion:__
+
 This program effectively finds the largest and smallest elements in an array, useful in many practical scenarios like data analysis.
 
 __3. Search for an Element in an Array__
+
 Description: Searches for a user-provided value in a predefined array and reports its position if found.
 
 Features: Linear search in array.
@@ -66,9 +69,11 @@ __Algorithm:__
 5.If not found, print a message indicating the key is not present.
 
 __Conclusion:__
+
 This program demonstrates a simple linear search algorithm to find an element in an array.
 
 __4.Reverse an Array:__
+
 Description: Reads array elements from the user and prints the array in reverse order.
 
 Features: Reversing the elements using a loop.
@@ -82,9 +87,11 @@ __Algorithm:__
 3.Loop backwards from the last element to the first, printing each element.
 
 __Conclusion:__
+
 This program shows how to reverse the order of elements in an array, a common array manipulation task.
 
 __5. Calculate Sum and Average of Array Elements :__
+
 Description: Reads the size and elements of an array, then computes and displays the sum and average.
 
 Features: Summation and average calculation.
@@ -104,16 +111,18 @@ __Algorithm:__
 6.Print the sum and average.
 
 __Conclusion:__
+
 This program calculates the total and average of elements in an array, useful in statistics and data processing.
 
 
 __6.Palindrome Check__
 
-Description
+Description:
 
 Check whether a given string is a palindrome (reads the same forwards and backwards).
 
 __ALGORITHM__
+
 1.Calculate the length of the string.
 
 2.Compare characters from the start and end moving inward.
@@ -143,6 +152,7 @@ __Description__
 Demonstrates how to declare and initialize arrays in C++.
 
 __ALGORITHM__
+
 1.Declare without initialization (values are garbage).
 
 2.Declare and initialize explicitly.
